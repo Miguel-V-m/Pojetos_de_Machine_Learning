@@ -1,4 +1,5 @@
-# projeto_eda_covid
-Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
+## projeto covid
+ 
+Neste projeto realizamos um analise de casos casos confirmados, número de novos casos por dia, taxa de crescimento e construirmos um modelo de séries temporais para prever os novos casos.
 
-Análise exploratória dos dados do COVID-19 com Python.
+**Análise exploratória dos dados do COVID-19 com Python.**
