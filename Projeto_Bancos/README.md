@@ -1,8 +1,8 @@
-## Pojetos de Machine Learning
+## Pojeto de Machine Learning
 
-O objetivo desses projetos é prática sobre os principais algoritmos de machine learning utilizando o Python, que é uma das
-linguagens de programação mais relevantes nesta área. Esses projetos apresentam os conceitos mais básicos até técnicas mais avançadas
-só Machine Learning.
+O objetivo do projeto é prática sobre os principais algoritmos de machine learning utilizando o Python, que é uma das
+linguagens de programação mais relevantes nesta área. O projeto apresenta conceitos mais básicos até técnicas mais avançadas
+de Machine Learning.
 
 **Principais assuntos abordados:**
 - Classificação - pré-processamento dos dados, naïve bayes, árvores de decisão, random forest, regras, regressão logística, máquinas de 
